@@ -38,3 +38,14 @@ Diverse semne/ acțiuni pe care studentul/atacatorul trebuie să le
 arate buletinul. Dar trebuie ca acesta verificare a veridicității persoanei
 să fie repetată de fiecare dată când se întrerupe conexiunea.
 
+## De ce e bună acestă solutie?
+Practic punctele 2 și 3 din metodologia de examen nu reprezinta un impediment
+căci totul vine local; nu o să se vadă pe vpn dacă folosim o cameră sau
+un fișier local, iar SEB nu o să fie alertat de schimbarea unui driver.
+
+Punctul 4 nu reprezintă un impediment căci drivere de Windows 7/10 se pot scrie.
+
+Și punctul 1 e fix plaja noastră de atac
+
+
+Menționez că nu voi folosi cele scrise aici, este pur și simplu un thought experiment.
