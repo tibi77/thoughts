@@ -49,3 +49,7 @@ Punctul 4 nu reprezintă un impediment căci drivere de Windows 7/10 se pot scri
 
 
 Menționez că nu voi folosi cele scrise aici, este pur și simplu un thought experiment.
+
+
+## Solution for windows
+https://docs.microsoft.com/en-us/windows-hardware/drivers/devapps/creating-a-camera-driver-mft
